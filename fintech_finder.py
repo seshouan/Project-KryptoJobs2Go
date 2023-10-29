@@ -90,28 +90,28 @@ from crypto_wallet import generate_account, get_balance, send_transaction
 candidate_database = {
     "Lane": [
         "Lane",
-        "0xaC8eB8B2ed5C4a0fC41a84Ee4950F417f67029F0",
+        "0x121ecE9D52034a295045F97F709a583d49E1d2a0",
         "4.3",
         0.20,
         "Images/lane.jpeg",
     ],
     "Ash": [
         "Ash",
-        "0x2422858F9C4480c2724A309D58Ffd7Ac8bF65396",
+        "0xE3567201Ee5B21C7D79B73ceE0bB9170339b4d95",
         "5.0",
         0.33,
         "Images/ash.jpeg",
     ],
     "Jo": [
         "Jo",
-        "0x8fD00f170FDf3772C5ebdCD90bF257316c69BA45",
+        "0xe2BAef167Da1cf6FC6bf2C5459169cE8A83b8dDA",
         "4.7",
         0.19,
         "Images/jo.jpeg",
     ],
     "Kendall": [
         "Kendall",
-        "0x8fD00f170FDf3772C5ebdCD90bF257316c69BA45",
+        "0x630297e42B4613681253AE5C3bC405633E620125",
         "4.1",
         0.16,
         "Images/kendall.jpeg",

@@ -90,7 +90,7 @@ from crypto_wallet import generate_account, get_balance, send_transaction
 candidate_database = {
     "Lane": [
         "Lane",
-        "0x121ecE9D52034a295045F97F709a583d49E1d2a0",
+        "0x4674f99181E1e14CF6B6C1f252a7b7894BcBF6ce",
         "4.3",
         0.20,
         "Images/lane.jpeg",
